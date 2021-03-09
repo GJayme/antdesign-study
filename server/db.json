@@ -1,0 +1,13 @@
+{
+  "users": [
+    {
+      "username": "gabriel jayme",
+      "email": "gabrielj_89@hotmail.com",
+      "gender": "male",
+      "hobbies": [
+        "Coding"
+      ],
+      "id": 1
+    }
+  ]
+}
