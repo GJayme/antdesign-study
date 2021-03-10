@@ -8,6 +8,17 @@
         "Coding"
       ],
       "id": 1
+    },
+    {
+      "username": "asdasdasd",
+      "email": "adasads@mail.com",
+      "gender": "others",
+      "hobbies": [
+        "Coding"
+      ],
+      "review": 43,
+      "notificaiton": true,
+      "id": 2
     }
   ]
 }
